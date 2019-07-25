@@ -8,8 +8,8 @@ words_per_minute: 200
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: 灯火阑珊
+description: 你现在的气质里，藏着你走过的路，读过的书和爱过的人。
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -31,7 +31,7 @@ disqus: False
 disqus_shortname: jekyller # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics:  # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
@@ -68,7 +68,7 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
+username: 岚彡
 repo: jasper2
 branch: master
 relative_source: ../jasper2/
